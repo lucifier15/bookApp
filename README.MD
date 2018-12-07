@@ -51,7 +51,7 @@ https://babeljs.io/
  - Improving the UI of the app to make it more presentable to the users.
 
 **Raising an Issue**
-For any issues or bug report mail me at : enter your mail here
+For any issues or bug report you can raise an issue.
 
 
 
